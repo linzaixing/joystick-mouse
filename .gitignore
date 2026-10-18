@@ -1,0 +1,13 @@
+# Arduino / ESP32 编译产物
+build/
+*.elf
+*.bin
+*.hex
+*.map
+*.d
+*.o
+
+# 编辑器与系统
+.vscode/
+.DS_Store
+Thumbs.db
